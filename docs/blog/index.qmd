@@ -1,0 +1,13 @@
+---
+title: "Blog"
+---
+
+
+This blog post is a reflection of the article **"The p-Value Requires Context, Not a Threshold"**
+
+
+by Rebecca A. Betensky
+
+
+[Link](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2018.1529624)
+
